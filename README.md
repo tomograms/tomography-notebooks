@@ -4,7 +4,7 @@
 
 ```bash
 # setup local repo (once)
-git clone https://gitlab.maxiv.lu.se/scisw/tomography-notebooks.git
+git clone https://github.com/tomograms/tomography-notebooks.git
 
 # update from gitlab (from time to time when there is anything new on the server)
 git fetch
