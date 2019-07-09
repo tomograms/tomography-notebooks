@@ -2,6 +2,7 @@
 
 *Reference notebooks for tomography reconstructions, image quantification and phase retrieval.*
 
+```bash
 # setup local repo (once)
 git clone https://gitlab.maxiv.lu.se/scisw/tomography-notebooks.git
 
@@ -23,3 +24,4 @@ git commit -m "Added new method in reconstructions methods."
 #   you need to setup proper ssh-keys
 #   or you will be prompted for a password with https 
 git push
+```
