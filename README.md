@@ -4,6 +4,7 @@
 
 ```bash
 # setup local repo (once)
+cd /mxn/home/$USER/jupyter_notebooks # (optional, do this when you want to use it in jupyterhub.maxiv.lu.se)
 git clone https://github.com/tomograms/tomography-notebooks.git
 
 # update from gitlab (from time to time when there is something new on the server)
