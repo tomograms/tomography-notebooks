@@ -26,3 +26,5 @@ git commit -m "Added new method in reconstructions methods."
 #   or you will be prompted for a password with https 
 git push
 ```
+
+Note: You can do all above directly in JupyterHub terminal. Left panel-> plus icon -> lunch terminal
