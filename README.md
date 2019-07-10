@@ -6,8 +6,8 @@
 # setup local repo (once)
 git clone https://github.com/tomograms/tomography-notebooks.git
 
-# update from gitlab (from time to time when there is anything new on the server)
-git fetch
+# update from gitlab (from time to time when there is something new on the server)
+git pull
 
 # edit your notebooks
 # ....
